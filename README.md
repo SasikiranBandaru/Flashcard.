@@ -1,46 +1,50 @@
-# Build-a-Flashcard
+### Flashcard - README
 
-Welcome to the Build-a-Flashcard project! This application allows users to create, edit, and delete flashcards for learning and revision purposes. It features a user-friendly interface built with React and a MySQL database for storing flashcard data.
+---
 
-## Table of Contents
+## Project Title
+**Flashcard Application**
 
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Database Setup](#database-setup)
-- [Running the Application](#running-the-application)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
+## Description
+A simple and intuitive flashcard application designed to help users study and memorize information effectively. This project allows users to create, edit, and review flashcards, enhancing their learning experience.
 
 ## Features
+- **Create Flashcards**: Add new flashcards with questions and answers.
+- **Edit Flashcards**: Modify existing flashcards.
+- **Review Mode**: Quiz yourself with random flashcards.
+- **Progress Tracking**: Monitor your learning progress.
 
-- **Create Flashcards**: Users can create new flashcards by providing a question and an answer.
-- **Edit Flashcards**: Users can modify existing flashcards if there are changes or mistakes.
-- **Delete Flashcards**: Users can remove flashcards that are no longer needed.
-- **Responsive Design**: The application is styled using CSS and Bootstrap, ensuring a great user experience across all devices.
+## Installation
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/SasikiranBandaru/Flashcard.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd Flashcard
+    ```
+3. Install the required dependencies:
+    ```bash
+    npm install
+    ```
+4. Start the application:
+    ```bash
+    npm start
+    ```
 
-## Technologies Used
+## Usage
+1. Open the application in your browser.
+2. Create a new deck of flashcards.
+3. Add questions and answers.
+4. Start reviewing to test your knowledge.
 
-- **Frontend**:
-  - React
-  - CSS
-  - Bootstrap
-- **Backend**:
-  - Node.js 
-  - Express.js 
-- **Database**:
-  - MySQL
-- **Other**:
-  - Axios (for HTTP requests)
+## Contributing
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Make your changes.
+4. Commit your changes (`git commit -m 'Add some feature'`).
+5. Push to the branch (`git push origin feature-branch`).
+6. Open a pull request.
 
-## Prerequisites
-
-Before you begin, ensure you have the following installed:
-
-- Node.js (for running the React application)
-- MySQL (for the database)
-- npm (Node Package Manager)
+## License
+This project is licensed under the MIT License.
