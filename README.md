@@ -38,6 +38,10 @@ A simple and intuitive flashcard application designed to help users study and me
 3. Add questions and answers.
 4. Start reviewing to test your knowledge.
 
+How my Website looks like
+![WhatsApp Image 2024-08-12 at 21 15 22_1f691f11](https://github.com/user-attachments/assets/f4801002-bc50-4ebd-8e2e-291af8d7e7ab)
+
+
 ## Contributing
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature-branch`).
